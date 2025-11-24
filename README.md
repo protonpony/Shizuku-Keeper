@@ -1,5 +1,5 @@
 ### [Shizuku Keeper ♾️](https://llamalab.com/automate/community/flows/51118)  
-Continuously run Shizuku and ADB uninterrupted without root, Wi-Fi, or a cable via [USB debugging](https://developer.android.com/tools/adb#wireless) with Automate *Premium.*[^1]
+Continuously run Shizuku and/or ADB uninterrupted without root, Wi-Fi, or a cable via [USB debugging](https://developer.android.com/tools/adb#wireless) with Automate *Premium.*[^1]
 
 ### [Shizuku Keeper ♾️ Lite](https://llamalab.com/automate/community/flows/51012)  
 Check Shizuku at regular intervals and automatically restart it via wireless debugging with the *free* version of Automate.
