@@ -7,4 +7,4 @@ Check Shizuku at regular intervals and automatically restart it via wireless deb
 ### [Better Shizuku Starter 🏁](https://llamalab.com/automate/community/flows/50863)
 Check and automatically start Shizuku on key events via wireless debugging with the *free* version of Automate.
 
-[^1]: A small in-app purchase unlocks all flows over 30 blocks.
+[^1]: A small in-app purchase unlocks all Automate flows over 30 blocks.
