@@ -8,5 +8,6 @@ Check Shizuku at regular intervals and automatically restart it via wireless deb
 Check and automatically start Shizuku on key events via wireless debugging with the *free* version of Automate.
 
 [^1]: A small in-app purchase unlocks all Automate flows over 30 blocks.
+---
 
 <a href="https://sourceforge.net/p/shizuku-keeper/"><img alt="Download Shizuku-Keeper" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3933197" width=200></a>
