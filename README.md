@@ -7,7 +7,7 @@ Check Shizuku **13.6** at regular intervals and automatically restart it via wir
 ### [Better Shizuku Starter 🏁](https://llamalab.com/automate/community/flows/50863)
 Check and automatically start Shizuku **13.6** on key events via wireless debugging with the *free* version of Automate.
 
-[^1]: A small in-app purchase unlocks all Automate flows over 30 blocks.
+[^1]: A small in-app purchase unlocks all [Automate for Android](https://llamalab.com/automate) flows over 30 blocks.
 ---
 
 <a href="https://sourceforge.net/p/shizuku-keeper/"><img alt="Download Shizuku-Keeper" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3933197" width=200></a>
