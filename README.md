@@ -1,4 +1,4 @@
-## [Shizuku Keeper ♾️](https://llamalab.com/automate/community/flows/51118)  
+# [Shizuku Keeper ♾️](https://llamalab.com/automate/community/flows/51118)  
 Continuously run [Shizuku](https://shizuku.rikka.app) or **ADB** without root, Wi-Fi, or cables via [USB debugging](https://developer.android.com/tools/adb#wireless) with [Automate](https://llamalab.com/automate) *Premium.[^1]*
 
 <img src="/assets/images/Shizuku-Keeper-Boot.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="45%"/></td>
