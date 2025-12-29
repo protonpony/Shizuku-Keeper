@@ -1,4 +1,4 @@
-<p align="center"><img src="/assets/images/infinity.png" alt="Public domain logo" width="15%" align="middle"/></p>
+<p align="center"><a href="https://llamalab.com/automate/community/flows/51118"><img src="/assets/images/infinity.png" alt="Public domain logo" width="15%" align="middle"/></a></p>
 
 # <div style="text-align: center;" align="middle">[Shizuku Keeper](https://llamalab.com/automate/community/flows/51118)</div>
 <p align="center">Run <a href="https://shizuku.rikka.app">Shizuku</a> or <b>ADB</b> uninterrupted without root, Wi-Fi, or cables via <a href="https://developer.android.com/tools/adb#wireless">USB debugging</a> with <a href="https://llamalab.com/automate">Automate</a> Premium.*</p>
