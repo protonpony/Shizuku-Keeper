@@ -3,9 +3,10 @@
 # <div style="text-align: center;" align="middle">[Shizuku Keeper](https://llamalab.com/automate/community/flows/51118)</div>
 <p align="center">Run <a href="https://shizuku.rikka.app">Shizuku</a> or <b>ADB</b> uninterrupted without root, Wi-Fi, or cables via <a href="https://developer.android.com/tools/adb#wireless">USB debugging</a> with <a href="https://llamalab.com/automate">Automate</a> Premium.*</p>
 
-<p align="center"><img src="/assets/images/Shizuku-Keeper-Boot.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="35%"/>
-<img src="/assets/images/Shizuku-Keeper-WiFi.png" alt="Shizuku started by Wi-Fi connection via wireless debugging" width="35%"/></p>
-
+<table style="border: none; border-collapse: collapse;"><tr>
+<td style="border: none;"><img src="/assets/images/Shizuku-Keeper-Boot.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="100%"/></td>
+<td style="border: none;"><img src="/assets/images/Shizuku-Keeper-WiFi.png" alt="Shizuku started by Wi-Fi connection via wireless debugging" width="100%"/></td>
+</tr></table>
 
 ### <div style="text-align: center;" align="middle">[Shizuku Keeper Lite](https://llamalab.com/automate/community/flows/51012)</div>  
 <p align="center">Check and automatically restart <b>Shizuku</b> or <b>ADB</b> at regular intervals via wireless debugging with Automate for <i>free.</i></p>
