@@ -8,10 +8,10 @@
 <td style="border: none;"><img src="/assets/images/Shizuku-Keeper-WiFi.png" alt="Shizuku started by Wi-Fi connection via wireless debugging" width="100%"/></td>
 </tr></table>
 
-### <div style="text-align: center;" align="middle">[Shizuku Keeper Lite](https://llamalab.com/automate/community/flows/51012)</div>  
+### <div style="text-align: center;" align="middle">[Shizuku Keeper ♾️ Lite](https://llamalab.com/automate/community/flows/51012)</div>  
 <p align="center">Check and automatically restart <b>Shizuku</b> or <b>ADB</b> at regular intervals via wireless debugging with Automate for <i>free.</i></p>
 
-### <div style="text-align: center;" align="middle">[Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863)</div>
+### <div style="text-align: center;" align="middle">[Better Shizuku Starter 🏁](https://llamalab.com/automate/community/flows/50863)</div>
 <p align="center">Check and automatically restart <b>Shizuku</b> or <b>ADB</b> on key events via wireless debugging with Automate for <i>free.</i></p>
 
 ---
