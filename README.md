@@ -18,4 +18,4 @@
 
 <p align="center"><a href="https://sourceforge.net/p/shizuku-keeper/"><img alt="Download Shizuku-Keeper" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3933197" width=200></a></p>
 
-<p align="center">* A small in-app purchase unlocks all <a href="https://play.google.com/store/apps/details?id=com.llamalab.automate">Automate for Android</a> flows over 30 blocks.</p>
+<p align="center">*A small in-app purchase unlocks all <a href="https://play.google.com/store/apps/details?id=com.llamalab.automate">Automate for Android</a> flows over 30 blocks.</p>
