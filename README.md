@@ -1,7 +1,7 @@
 <p align="center"><a href="https://llamalab.com/automate/community/flows/51118"><img src="/assets/images/infinity.png" alt="Public domain logo" width="15%" align="middle"/></a></p>
 
 # <div align="middle"><a href="https://llamalab.com/automate/community/flows/51118">Shizuku Keeper</a></div>
-<p align="center">Run Shizuku or standalone ADB uninterrupted without root, Wi-Fi, or cables via USB debugging with Automate Premium.*</p>
+<p align="center">Run Shizuku or ADB uninterrupted without root, Wi-Fi, or cables via USB debugging with Automate Premium.*</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
 <td style="border: none;"><img src="/assets/images/Shizuku-Keeper-Boot.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="100%"/></td>
@@ -9,10 +9,10 @@
 </tr></table>
 
 ### <div style="text-align: center;" align="middle">[Shizuku Keeper ♾️ Lite](https://llamalab.com/automate/community/flows/51012)</div>  
-<p align="center">Check and automatically restart Shizuku or standalone ADB at regular intervals via wireless debugging with Automate for <i>free.</i></p>
+<p align="center">Check and automatically restart Shizuku or ADB at regular intervals via wireless debugging with Automate for <i>free.</i></p>
 
 ### <div style="text-align: center;" align="middle">[Better Shizuku Starter 🏁](https://llamalab.com/automate/community/flows/50863)</div>
-<p align="center">Check and automatically restart Shizuku or standalone ADB on key events via wireless debugging with Automate for <i>free.</i></p>
+<p align="center">Check and automatically restart Shizuku or ADB on key events via wireless debugging with Automate for <i>free.</i></p>
 
 # <div style="text-align: center;" align="middle"></div>
 ### <div style="text-align: center;" align="middle">Dependencies:</div>
