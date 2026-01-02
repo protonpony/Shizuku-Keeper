@@ -1,6 +1,6 @@
 <p align="center"><a href="https://llamalab.com/automate/community/flows/51118"><img src="/assets/images/infinity.png" alt="Public domain logo" width="15%" align="middle"/></a></p>
 
-# <div style="text-align: center;" align="middle">[Shizuku Keeper](https://llamalab.com/automate/community/flows/51118)</div>
+# <div align="middle"><small><a href="https://llamalab.com/automate/community/flows/51118">Shizuku Keeper</a></small></div>
 <p align="center">Run <a href="https://shizuku.rikka.app">Shizuku</a> or <b>ADB</b> uninterrupted without root, Wi-Fi, or cables via <a href="https://developer.android.com/tools/adb#wireless">USB debugging</a> with <a href="https://llamalab.com/automate">Automate</a> Premium.*</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
@@ -14,8 +14,17 @@
 ### <div style="text-align: center;" align="middle">[Better Shizuku Starter 🏁](https://llamalab.com/automate/community/flows/50863)</div>
 <p align="center">Check and automatically restart <b>Shizuku</b> or <b>ADB</b> on key events via wireless debugging with Automate for <i>free.</i></p>
 
----
+# <div style="text-align: center;" align="middle"></div>
+### <div style="text-align: center;" align="middle">Acknowledgments:</div>
+<p align="center">
+  <a href="https://llamalab.com/automate/community/flows/44848">Start Shizuku</a> by jack5mikemotown<br>
+  <a href="https://llamalab.com/automate/community/flows/48323">Auto ADB over TCPIP + Shizuku</a> by Rahatul Ghazi<br>
+  <a href="https://llamalab.com/automate/community/flows/43009">Flow Logs</a> by Patrick Corgan<br>
+  <a href="https://llamalab.com/automate/community/flows/44483">How to get current Fiber URI</a> by Patrick Corgan
+</p>
+
+# <div style="text-align: center;" align="middle"></div>
 
 <p align="center"><a href="https://sourceforge.net/p/shizuku-keeper/"><img alt="Download Shizuku-Keeper" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3933197" width=200></a></p>
-
 <p align="center">* A small in-app purchase unlocks all <a href="https://play.google.com/store/apps/details?id=com.llamalab.automate">Automate for Android</a> flows over 30 blocks.</p>
+
