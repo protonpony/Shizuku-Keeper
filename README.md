@@ -18,7 +18,7 @@
 ### <div style="text-align: center;" align="middle">Acknowledgments:</div>
 <p align="center">
   <a href="https://llamalab.com/automate/community/flows/44848">Start Shizuku</a> by jack5mikemotown<br>
-  <a href="https://llamalab.com/automate/community/flows/48323">Auto ADB over TCPIP + Shizuku</a> by Rahatul Ghazi<br>
+  <a href="https://llamalab.com/automate/community/flows/48004">Auto ADB over TCPIP</a> by Rahatul Ghazi<br>
   <a href="https://llamalab.com/automate/community/flows/43009">Flow Logs</a> by Patrick Corgan<br>
 </p>
 
