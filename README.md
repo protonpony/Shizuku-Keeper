@@ -1,6 +1,6 @@
 <p align="center"><a href="https://llamalab.com/automate/community/flows/51118"><img src="/assets/images/infinity.png" alt="Public domain logo" width="15%" align="middle"/></a></p>
 
-# <div align="middle"><small><a href="https://llamalab.com/automate/community/flows/51118">Shizuku Keeper</a></small></div>
+# <div align="middle"><a href="https://llamalab.com/automate/community/flows/51118">Shizuku Keeper</a></div>
 <p align="center">Run <a href="https://shizuku.rikka.app">Shizuku</a> or <b>ADB</b> uninterrupted without root, Wi-Fi, or cables via <a href="https://developer.android.com/tools/adb#wireless">USB debugging</a> with <a href="https://llamalab.com/automate">Automate</a> Premium.*</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
@@ -15,7 +15,19 @@
 <p align="center">Check and automatically restart <b>Shizuku</b> or <b>ADB</b> on key events via wireless debugging with Automate for <i>free.</i></p>
 
 # <div style="text-align: center;" align="middle"></div>
-### <div style="text-align: center;" align="middle">Acknowledgments:</div>
+
+### <div style="text-align: center;" align="middle">Dependencies</div>
+<p align="center">
+  <a href="https://llamalab.com/automate">Automate</a> by LlamaLab<br>
+  <a href="https://shizuku.rikka.app">Shizuku</a> by RikkaApps
+</p>
+
+### <div style="text-align: center;" align="middle">Recommended</div>
+<p align="center">
+  <a href="https://llamalab.com/automate/community/flows/19103">Flow Update Notification</a> by Ethan Grant
+</p>
+
+### <div style="text-align: center;" align="middle">Acknowledgments</div>
 <p align="center">
   <a href="https://llamalab.com/automate/community/flows/44848">Start Shizuku</a> by jack5mikemotown<br>
   <a href="https://llamalab.com/automate/community/flows/48004">Auto ADB over TCPIP</a> by Rahatul Ghazi<br>
