@@ -18,7 +18,9 @@
 ### <div style="text-align: center;" align="middle">Dependencies:</div>
 <p align="center">
   <a href="https://llamalab.com/automate">Automate</a> by LlamaLab<br>
-  <a href="https://shizuku.rikka.app">Shizuku</a> by RikkaApps (optional)</p>
+  <a href="https://shizuku.rikka.app">Shizuku</a> by RikkaApps
+</p>
+
 # <div style="text-align: center;" align="middle"></div>
 ### <div style="text-align: center;" align="middle">Acknowledgments:</div>
 <p align="center">
