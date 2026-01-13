@@ -15,14 +15,14 @@
 <p align="center">Check and automatically restart Shizuku or ADB on key events via wireless debugging with Automate for <i>free.</i></p>
 
 # <div style="text-align: center;" align="middle"></div>
-### <div style="text-align: center;" align="middle">Dependencies:</div>
+### <div style="text-align: center;" align="middle">Dependencies</div>
 <p align="center">
   <a href="https://llamalab.com/automate">Automate</a> by LlamaLab<br>
   <a href="https://shizuku.rikka.app">Shizuku</a> by RikkaApps
 </p>
 
 # <div style="text-align: center;" align="middle"></div>
-### <div style="text-align: center;" align="middle">Acknowledgments:</div>
+### <div style="text-align: center;" align="middle">Acknowledgments</div>
 <p align="center">
   <a href="https://llamalab.com/automate/community/flows/44848">Start Shizuku</a> by jack5mikemotown<br>
   <a href="https://llamalab.com/automate/community/flows/48004">Auto ADB over TCP/IP</a> by Rahatul Ghazi<br>
