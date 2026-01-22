@@ -1,36 +1,38 @@
-name: Update README with itemprop content
+name: Update Release Notes with Webpage Content
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering
+  release:
+    types: [created]
 
 jobs:
-  update-readme:
+  update_notes:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Use default token for checkout
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Set up Python (or Node.js)
-        uses: actions/setup-python@v4 # Or setup-node@v4 for Node.js
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies (Python example)
+      - name: Extract Release Info from Webpage
+        id: extract_info
         run: |
-          pip install requests beautifulsoup4
-          # OR for Node: npm install axios cheerio
+          # Fetch the webpage content (replace with your actual URL)
+          PAGE_CONTENT=$(curl -s "https://llamalab.com/automate/community/flows/51118")
+          
+          # Extract content using grep/sed for an itemprop (adjust selector as needed)
+          # Example: Find content within <meta itemprop="version" content="...">
+          VERSION=$(echo "$PAGE_CONTENT" | grep -o '<meta itemprop="version" content="[^"]*"' | sed 's/<meta itemprop="version" content="\([^"]*\)"/\1/')
+          
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
 
-      - name: Run script to update README
-        run: |
-          python update_script.py
-          # OR for Node: node update_script.js
-
-      - name: Commit & Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Create/Update Release with Notes
+        uses: softprops/action-gh-release@v1
         with:
-          commit_message: 'chore: Update README with new itemprop content'
-          file_pattern: README.md # Or your specific file
+          tag_name: ${{ github.event.release.tag_name }}
+          name: "Release ${{ steps.extract_info.outputs.version }}"
+          body: |
+            ## What's New
+            ${{ steps.extract_info.outputs.description }}
+            
+            ---
+            *This release content was automatically generated.*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
