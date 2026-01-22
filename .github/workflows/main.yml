@@ -1,0 +1,36 @@
+name: Update README with itemprop content
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use default token for checkout
+
+      - name: Set up Python (or Node.js)
+        uses: actions/setup-python@v4 # Or setup-node@v4 for Node.js
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (Python example)
+        run: |
+          pip install requests beautifulsoup4
+          # OR for Node: npm install axios cheerio
+
+      - name: Run script to update README
+        run: |
+          python update_script.py
+          # OR for Node: node update_script.js
+
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'chore: Update README with new itemprop content'
+          file_pattern: README.md # Or your specific file
