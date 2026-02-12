@@ -1,7 +1,7 @@
 <p align="center"><a href="https://llamalab.com/automate/community/flows/51118"><img src="/assets/images/infinity.png" alt="Public domain logo" width="15%" align="middle"/></a></p>
 
 # <div align="middle"><a href="https://llamalab.com/automate/community/flows/51118">Shizuku Keeper</a></div>
-<p align="center">Run Shizuku or ADB uninterrupted without root, Wi-Fi, or cables via <a href="https://developer.android.com/tools/adb#wireless">USB debugging</a> with Automate. *</p>
+<p align="center">Run Shizuku or ADB uninterrupted without root, Wi-Fi, or cables via <a href="https://developer.android.com/tools/adb#wireless">USB debugging</a> with Automate Premium.*</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
 <td style="border: none;"><img src="/assets/images/Shizuku-Keeper-Boot.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="100%"/></td>
