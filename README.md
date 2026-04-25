@@ -11,7 +11,7 @@
 ### <div style="text-align: center;" align="middle">[Shizuku Keeper ♾️ Lite](https://llamalab.com/automate/community/flows/51012)</div>  
 <p align="center">Check and automatically restart Shizuku or ADB at regular intervals via wireless debugging with Automate free.</p>
 
-### <div style="text-align: center;" align="middle">[Better Shizuku Starter 🏁](https://llamalab.com/automate/community/flows/50863)</div>
+### <div style="text-align: center;" align="middle">[Better Shizuku Starter ⚡️](https://llamalab.com/automate/community/flows/50863)</div>
 <p align="center">Check and automatically restart Shizuku or ADB on key events via wireless debugging with Automate free.</p>
 
 ### <div style="text-align: center;" align="middle">Dependencies</div>
