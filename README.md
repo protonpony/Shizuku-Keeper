@@ -4,8 +4,8 @@
 <p align="center">Run Shizuku or ADB uninterrupted without root, Wi-Fi, or cables via <a href="https://developer.android.com/tools/adb#wireless">USB debugging</a> with Automate Premium.</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
-<td style="border: none;"><img src="/assets/images/Shizuku-Keeper-Boot.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="100%"/></td>
-<td style="border: none;"><img src="/assets/images/Shizuku-Keeper-WiFi.png" alt="Shizuku started by Wi-Fi connection via wireless debugging" width="100%"/></td>
+<td style="border: none;"><img src="/assets/images/ADB_is_running.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="100%"/></td>
+<td style="border: none;"><img src="/assets/images/Shizuku_started_by_WiFi.png" alt="Shizuku started by Wi-Fi connection via wireless debugging" width="100%"/></td>
 </tr></table>
 
 ### <div style="text-align: center;" align="middle">[Shizuku Keeper ♾️ Lite](https://llamalab.com/automate/community/flows/51012)</div>  
