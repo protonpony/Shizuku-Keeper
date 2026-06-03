@@ -1,7 +1,7 @@
 <p align="center"><a href="https://llamalab.com/automate/community/flows/51118"><img src="/assets/images/infinity.png" alt="Public domain logo" width="15%" align="middle"/></a></p>
 
 # <div align="middle"><a href="https://llamalab.com/automate/community/flows/51118">Shizuku Keeper</a></div>
-<p align="center">Run Shizuku or ADB continuously with only a brief Wi-Fi connection on boot in Automate Premium.</p>
+<p align="center">Run Shizuku or ADB uninterrupted with only a brief Wi-Fi connection on boot in Automate Premium.</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
 <td style="border: none;"><img src="/assets/images/ADB_is_running.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="100%"/></td>
