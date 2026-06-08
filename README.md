@@ -4,8 +4,8 @@
 <p align="center">Run Shizuku or ADB uninterrupted with only a brief Wi-Fi connection on boot in Automate Premium.</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
-<td style="border: none;"><img src="/assets/images/ADB_is_running.png" alt="Shizuku started at boot via USB debugging with Autommate's privileged service" width="100%"/></td>
-<td style="border: none;"><img src="/assets/images/Shizuku_started_by_WiFi.png" alt="Shizuku started by Wi-Fi connection via wireless debugging" width="100%"/></td>
+<td style="border: none;"><img src="/assets/images/shizuku_running_privileged_no_wifi.png" alt="Shizuku running disconnected via USB debugging with Autommate's privileged service" width="100%"/></td>
+<td style="border: none;"><img src="/assets/images/adb_tcpip_started_custom_port.png" alt="ADB started via USB debugging with a custom TCP port" width="100%"/></td>
 </tr></table>
 
 ### <div style="text-align: center;" align="middle">[Shizuku Keeper ♾️ Lite](https://llamalab.com/automate/community/flows/51012)</div>  
