@@ -4,8 +4,8 @@
 <p align="center">Run Shizuku or ADB uninterrupted with only a brief Wi-Fi connection on boot in Automate Premium.</p>
 
 <table style="border: none; border-collapse: collapse;"><tr>
-<td style="border: none;"><img src="/assets/images/shizuku_running_privileged_no_wifi.png" alt="Shizuku running disconnected via USB debugging with Autommate's privileged service" width="100%"/></td>
-<td style="border: none;"><img src="/assets/images/adb_tcpip_started_custom_port.png" alt="ADB started via USB debugging with a custom TCP port" width="100%"/></td>
+<td style="border: none;"><img src="/assets/images/shizuku_started_boot.png" alt="Shizuku started on boot via USB debugging" width="100%"/></td>
+<td style="border: none;"><img src="/assets/images/adb_running_nowifi_custombtn_customport.png" alt="ADB running via USB debugging on custom port with custom button and no Wi-Fi" width="100%"/></td>
 </tr>
 <tr><th colspan="2"><sup><a href="https://photos.app.goo.gl/ok3iGXgDfVjxmmwm6">more images</a></sup></th></tr>
 </table>
